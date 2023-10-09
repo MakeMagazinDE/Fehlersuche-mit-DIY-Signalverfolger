@@ -10,6 +10,6 @@ Maker Media GmbH
 die richtigen Werkzeuge. Eines davon ist der Signalverfolger. Den kann man
 recht einfach selber bauen.**
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+![Aufmacherbild aus dem Heft](./doc/Aufmacher.jpg)
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/23 ab Seite 95](https://www.heise.de/select/make/2023/6)**.
