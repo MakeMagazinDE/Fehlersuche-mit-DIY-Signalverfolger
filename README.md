@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-# Schlaue Steckdose
+# Fehlersuche mit DIY Signalverfolger
 
 **Fehlern in komplexen Audioschaltungen auf den Grund zu gehen, erfordert
 die richtigen Werkzeuge. Eines davon ist der Signalverfolger. Den kann man
